@@ -14,7 +14,7 @@
 </p>
 
 
-<img src="https://skillicons.dev/icons?i=py,kali,mysql,bash,linux,php,laravel,git,vscode,docker,figma,ps,ai" />
+<img src="https://skillicons.dev/icons?i=py,kali,mysql,bash,linux,php,laravel,git,vscode,docker,figma,ps" />
 
 ---
 
