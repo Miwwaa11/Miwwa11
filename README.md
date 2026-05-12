@@ -9,7 +9,6 @@
 </a>
 
 <p align="center">
-  contact me:
   <a href="https://www.instagram.com/riikkkoo_"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ryco-poetra-widjaya-0533a6381"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
