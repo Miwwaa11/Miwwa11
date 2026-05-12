@@ -11,7 +11,7 @@
 ---
 
 ### 🛠️ Tech Stack
-<img src="https://skillicons.dev/icons?i=py,linux,bash,git,vscode,docker,markdown,react,nextjs,arch,php,laravel,figma,ps,ai" />
+<img src="https://skillicons.dev/icons?i=py,linux,bash,git,vscode,docker,react,nextjs,kali,php,laravel,figma,ps" />
 
 ---
 
@@ -30,10 +30,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Miwwaa11&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miwwaa11&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miwwaa11&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
