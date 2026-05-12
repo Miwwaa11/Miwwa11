@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Ryco Poetra Widjaya
-### Software Engineering | EThical
+### Software Engineering | Ethical Hacking Learning | UI/UX Designer
 
 <p align="center">
   <a href="https://www.instagram.com/riikkkoo_"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -10,10 +10,15 @@
 
 ---
 
-### 🛠️ My Lab & Skills
-<img src="https://skillicons.dev/icons?i=kali,mysql,bash,linux,py,php,laravel,git,vscode,docker,ps,figma" />
+### 🛠️ Technical Skills
 
----
+* **💻 Software Engineering**: Developing scalable applications using **PHP**, **Laravel**, and **MySQL**.
+* **🛡️ Ethical Hacking**: Learning penetration testing, network security, and system analysis using **Kali Linux**.
+* **🎨 UI/UX Design**: Creating intuitive user interfaces and experiences with **Figma**, **Photoshop**, and **Illustrator**.
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=py,kali,mysql,bash,linux,php,laravel,git,vscode,docker,figma,ps,ai" />
 
 ---
 
@@ -26,7 +31,7 @@
 
 ---
 
-### 📊 System Stats
+### 📊 GitHub Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Miwwaa11&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miwwaa11&layout=compact&theme=tokyonight&hide_border=true" height="150" />
