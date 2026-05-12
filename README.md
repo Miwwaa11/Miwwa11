@@ -15,6 +15,8 @@
 
 ---
 
+---
+
 ### 🐍 Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Miwwaa11/Miwwaa11/output/github-contribution-grid-snake-dark.svg">
@@ -28,6 +30,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Miwwaa11&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miwwaa11&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miwwaa11&theme=tokyonight&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
