@@ -1,3 +1,5 @@
+<div align="center">
+
 # 👋 Hi, I'm Ryco Poetra Widjaya
 
 <a href="https://git.io/typing-svg">
@@ -9,21 +11,17 @@
   <a href="https://www.linkedin.com/in/ryco-poetra-widjaya-0533a6381"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
----
-
-
-<img src="https://skillicons.dev/icons?i=py,kali,mysql,bash,linux,php,laravel,git,vscode,docker,figma,ps,ai" />
+### 🛠️ Technical Skills
+<img src="https://skillicons.dev/icons?i=py,kali,mysql,bash,linux,php,laravel,git,vscode,docker,figma,ps" />
 
 ---
 
 ### 🐍 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Miwwaa11/Miwwaa11/output/github-contribution-grid-snake.svg" alt="github contribution grid snake" width="100%" />
-</p>
+<img src="https://raw.githubusercontent.com/Miwwaa11/Miwwaa11/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
 
 ---
 
-### 📊 GitHub Statistics
+### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miwwaa11&theme=tokyonight&hide_border=true" width="100%" />
 </p>
