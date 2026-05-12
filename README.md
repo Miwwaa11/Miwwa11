@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi, I'm Ryco Poetra Widjaya
-### Software Engineering | Cybersecurity | MySQL Database
+### Software Engineering | EThical
 
 <p align="center">
   <a href="https://www.instagram.com/riikkkoo_"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -12,6 +12,8 @@
 
 ### 🛠️ My Lab & Skills
 <img src="https://skillicons.dev/icons?i=kali,mysql,bash,linux,py,php,laravel,git,vscode,docker,ps,figma" />
+
+---
 
 ---
 
