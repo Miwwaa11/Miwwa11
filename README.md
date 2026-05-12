@@ -11,7 +11,7 @@
 ---
 
 ### 🛠️ My Lab & Skills
-<img src="https://skillicons.dev/icons?i=kali,mysql,bash,linux,py,php,laravel,git,vscode,docker,ps,ai,figma" />
+<img src="https://skillicons.dev/icons?i=kali,mysql,bash,linux,py,php,laravel,git,vscode,docker,ps,figma" />
 
 ---
 
