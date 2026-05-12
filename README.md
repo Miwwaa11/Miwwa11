@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/ryco-poetra-widjaya-0533a6381"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-### 🛠️ Technical Skills
+### 🛠️ My Tools
 <img src="https://skillicons.dev/icons?i=py,kali,mysql,bash,linux,php,laravel,git,vscode,docker,figma,ps" />
 
 ---
