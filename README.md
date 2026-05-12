@@ -1,6 +1,4 @@
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/02978da7-34f4-482f-bae3-5a1c1d9a6f8c" /><div align="center">
-
-# 👋 Hi, I'm Ryco Poetra Widjaya
+ 👋 Hi, I'm Ryco Poetra Widjaya
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=34b7eb&center=true&vCenter=true&width=600&lines=Software+Engineering;Ethical+Hacking+Learning;UI%2FUX+Designer" alt="Typing SVG" />
