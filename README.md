@@ -1,4 +1,4 @@
-<div align="center">
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/02978da7-34f4-482f-bae3-5a1c1d9a6f8c" /><div align="center">
 
 # 👋 Hi, I'm Ryco Poetra Widjaya
 
@@ -11,16 +11,21 @@
   <a href="https://www.linkedin.com/in/ryco-poetra-widjaya-0533a6381"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-### 🛠️ Technical Skills
-<img src="https://skillicons.dev/icons?i=py,kali,mysql,bash,linux,php,laravel,git,vscode,docker,figma,ps" />
+---
+
+
+<img src="https://skillicons.dev/icons?i=py,kali,mysql,bash,linux,php,laravel,git,vscode,docker,figma,ps,ai" />
 
 ---
 
 ### 🐍 Contribution Snake
-![Snake Animation](https://raw.githubusercontent.com/Miwwaa11/Miwwaa11/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Miwwaa11/Miwwaa11/output/github-contribution-grid-snake.svg" alt="github contribution grid snake" width="100%" />
+</p>
+
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Statistics
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miwwaa11&theme=tokyonight&hide_border=true" width="100%" />
 </p>
