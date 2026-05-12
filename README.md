@@ -11,7 +11,7 @@
 ---
 
 ### 🛠️ Tech Stack
-<img src="https://skillicons.dev/icons?i=py,linux,bash,git,vscode,docker,react,nextjs,kali,php,laravel,figma,ps" />
+<img src="https://skillicons.dev/icons?i=py,linux,bash,git,vscode,mysql,docker,react,nextjs,kali,php,laravel,figma,ps" />
 
 ---
 
